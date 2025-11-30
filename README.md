@@ -36,6 +36,7 @@ This project simulates **patient-level healthcare data** (~6.8 million records) 
 - Total Deaths by Quarter  
 
 ### 3. Statistics
+- Set up drillthrough statistic detail
 - Max, Min, Mean, Median, and Standard Deviation for:
   - TotalAdmissions  
   - Readmissions  
